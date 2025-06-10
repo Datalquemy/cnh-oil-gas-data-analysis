@@ -38,3 +38,12 @@ Identificar patrones de producción de petróleo y gas en México, resaltar camp
 ## 📥 Dataset
 
 Datos descargados directamente desde la [CNH - Datos Abiertos](https://datos.gob.mx/busca/organization/cnh).
+
+## Datasets
+
+Los datasets los encuentras en este mismo repositorio, uno para gas y uno para aceite
+
+## Databricks
+
+Use Databricks Community para trabajar la transformación de los datos 
+https://community.cloud.databricks.com/
